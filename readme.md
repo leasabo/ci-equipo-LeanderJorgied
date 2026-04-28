@@ -76,3 +76,28 @@ Si cualquier paso falla (error de sintaxis, test que no pasa, excepción en el s
 
 ---
 
+## Capturas de pantalla
+
+### Primera prueba corriendo en **codespace**:
+
+<img width="960" height="1036" alt="Prueba_ejecución_codespace" src="https://github.com/user-attachments/assets/5415b05f-b742-4671-87d6-e4e30b031eb2" />
+
+### Primer **pullrequest**:
+
+<img width="960" height="1577" alt="Screenshot 2026-04-28 at 00-28-43 Feature leander by leasabo · Pull Request #1 · leasabo_ci-equipo-LeanderJorgied" src="https://github.com/user-attachments/assets/9ae3fbb7-ceb7-4e56-ab2d-055a1bfc9fc8" />
+
+### Primer **merge**:
+
+<img width="960" height="1436" alt="Screenshot 2026-04-28 at 00-29-43 Feature leander by leasabo · Pull Request #1 · leasabo_ci-equipo-LeanderJorgied" src="https://github.com/user-attachments/assets/feea54dd-7197-4ba4-93aa-9030563ab448" />
+
+### Primer **review**:
+
+<img width="1920" height="1369" alt="Screenshot 2026-04-28 at 00-54-57 Agregar función palíndromo by jorgied · Pull Request #2 · leasabo_ci-equipo-LeanderJorgied" src="https://github.com/user-attachments/assets/2113557d-8092-47a9-ad67-46af019282a5" />
+
+### Listado de **workflows** ejecutados:
+
+<img width="1338" height="816" alt="Screenshot 2026-04-28 at 01-35-55 Workflow runs · leasabo_ci-equipo-LeanderJorgied" src="https://github.com/user-attachments/assets/39fbb18b-957d-42a5-809e-1c1f920a7080" />
+
+### Ejemplo de un **workflow** ejecutado:
+
+<img width="960" height="707" alt="Screenshot 2026-04-28 at 01-46-59 Actualizar el readme · leasabo_ci-equipo-LeanderJorgied@aad14b7" src="https://github.com/user-attachments/assets/ab46521a-e2f1-43ad-b8d1-4ad48077eb30" />
