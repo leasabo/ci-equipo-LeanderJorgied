@@ -10,3 +10,7 @@ def contar_palabras(texto: str) -> int:
     if not texto or not texto.strip():
         return 0
     return len(texto.split())
+
+def es_palindromo(texto: str) -> bool:
+    limpio = texto.replace(" ", "").lower()
+    return limpio == limpio[::-1]
